@@ -13,7 +13,7 @@ This is my second web development project where I recreated a Mondrian-style lay
 - Clean and structured layout
 
 ## 🌐 Live Demo
-👉 https://kaushikshivam-stack.github.io/mondrian-project/
+👉 https://kaushikshivam-stack.github.io/mondrian-project-/
 
 ## 🙌 What I Learned
 - CSS Grid fundamentals
