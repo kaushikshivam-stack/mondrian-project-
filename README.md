@@ -21,4 +21,8 @@ This is my second web development project where I recreated a Mondrian-style lay
 - grid-area and span usage
 - How to build complex layouts using CSS only
 
+## 📸 Project Screenshots
+
+![Mondrain Project](Screenshot1.png)
+
 ⭐ This project helped me revise my CSS Grid knowledge and stay consistent in my web development journey!
